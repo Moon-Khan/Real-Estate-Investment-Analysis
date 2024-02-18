@@ -32,4 +32,4 @@ The analysis aims to explore real estate investment opportunities in King County
 
 ## Results
 
-The results of the analysis, including visualizations, insights, and potentially predictive models, will be available within the `analysis.ipynb` notebook.
+The results of the analysis, including visualizations, insights, and potentially predictive models, will be available within the `Real Estate Investment Trust Analysis.ipynb` notebook.
